@@ -1,0 +1,7 @@
+com\shop\PaymentController.class
+com\shop\ProductController.class
+com\shop\CategoryController.class
+com\shop\UserController.class
+com\shop\HomeController.class
+com\shop\CartController.class
+com\shop\AdminController.class

@@ -1,0 +1,6 @@
+com\shop\TeseCases\CategoryDAOTestCase.class
+com\shop\TeseCases\ProductDAOTestCase.class
+com\shop\TeseCases\CartDAOTestCase.class
+com\shop\MyBazarFirstBackend\AppTest.class
+com\shop\TeseCases\OrdersDAOTestCase.class
+com\shop\TeseCases\UserDAOTestCase.class

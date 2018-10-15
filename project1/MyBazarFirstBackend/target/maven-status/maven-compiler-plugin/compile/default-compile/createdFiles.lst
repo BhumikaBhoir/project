@@ -1,0 +1,17 @@
+com\shop\model\User.class
+com\shop\MyBazarFirstBackend\App.class
+com\shop\model\Category.class
+com\shop\model\Product.class
+com\shop\DAO\CategoryDAOImpl.class
+com\shop\DAO\CartDAO.class
+com\shop\DAO\UserDAOImpl.class
+com\shop\DAO\OrdersDAO.class
+com\shop\config\DBConfig.class
+com\shop\DAO\ProductDAOImpl.class
+com\shop\DAO\UserDAO.class
+com\shop\DAO\OrdersDAOImpl.class
+com\shop\model\Orders.class
+com\shop\DAO\CartDAOImpl.class
+com\shop\DAO\CategoryDAO.class
+com\shop\model\Cart.class
+com\shop\DAO\ProductDAO.class
